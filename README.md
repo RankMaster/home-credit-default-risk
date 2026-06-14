@@ -88,7 +88,7 @@ Raw CSV → EDA → Missing Value Analysis → Drop/Impute/Encode
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/home-credit-default-risk.git
+git clone https://github.com/RankMaster/home-credit-default-risk.git
 cd home-credit-default-risk
 
 # 2. Create a virtual environment
